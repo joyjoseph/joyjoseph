@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**joyjoseph/joyjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, i'm Joy Joseph, a passionate Data Scientist from Nigeria. I am passionate about data manipulation and extracting meaningful insights from data. Data storytelling 
+and digital technology is my strength zone. I am focused on helping brands generate valuable insights by leveraging data assets to make informed business decisions. 
 
-Here are some ideas to get you started:
+💼 any freelance work? do reach, [email](joyjoseph9027@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Software Engineering
+
+👯 I’m looking to collaborate on Exciting Projects
+
+💬 Ask me about anything, i am always happy to assist
+
+⚡ Fun fact about me is that i like laughing
