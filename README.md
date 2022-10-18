@@ -6,7 +6,6 @@ and digital technology is my strength zone. I am focused on helping brands gener
 
 # 💫 About Me:
 💼 any freelance work? do reach, [email](joyjoseph9027@gmail.com)
-
 <br><br>🌱 I’m currently learning Software Engineering<br><br>
 👯 I’m looking to collaborate on Exciting Projects<br><br>💬 Ask me about anything, I am always happy to assist<br><br>⚡ Fun fact about me is that I like laughing
 
